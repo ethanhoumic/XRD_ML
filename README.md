@@ -10,7 +10,7 @@ In this project, we have used various model to predict the crystal system from X
 ## Members (Name and Student ID) 
 
 1. 侯奕安 b11202014
-2. 吳政蔚 b112020??
+2. 吳政蔚 b11202030
 3. 蔡杰達 b11202040
 
 ## Method
@@ -57,8 +57,9 @@ We've trained five different model, including Dense, CNN + Dense, Extreme Random
 
 ## User Guide
 
-### Data and Specfication
+### Data and Specification
 The data are stored on Google Drive, and the code is designed to run on Colab using GPU T4.
+吳政蔚's code uses local files (I downloaded all the data), so that part of the code has to be rewritten if one wants to run it on colab.
 
 ### Model 
 #### Dense, CNN + Dense, Extra Trees
