@@ -58,13 +58,23 @@ We've trained five different model, including Dense, CNN + Dense, Extreme Random
 ## User Guide
 
 ### Data and Specification
-The data are stored on Google Drive, and the code is designed to run on Colab using GPU T4.
-吳政蔚's code uses local files (I downloaded all the data), so that part of the code has to be rewritten if one wants to run it on colab.
+
+The data are stored on Google Drive, and the code is designed to run on Colab using GPU T4. \\
+
+吳政蔚's code uses local files (I downloaded all the data), so that part of the code has to be rewritten if one wants to run it on colab. \\
+
+For 侯奕安's notebooks (model_CNNLSTM.ipynb, model_CNN_LSTM_peak.ipynb), please follow the below hierarchy to execute the code: \\
+
+|-- your google drive
+ |-- xrd_training
+  |-- structure_info.csv, output_data.zip
 
 ### Model 
 #### Dense, CNN + Dense, Extra Trees
 The models can be executed in the notebook file on Github, run the code from the first section to last.
 
+#### CNN-BiLSTM
+The models can be trained and evaluated by following the cells. If you want to directly evaluate an existing .pt file, add a cell with "model = torch.load("model_path")". "CE" in the weight file name means that the loss function is CrossEntropy, while "FL" means the loss function is FocalLoss. 
 
 ## References
 
