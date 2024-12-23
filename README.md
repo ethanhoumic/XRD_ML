@@ -59,7 +59,7 @@ We've trained five different model, including Dense, CNN + Dense, Extreme Random
 
 ### Data and Specification
 
-The data are stored on Google Drive, and the code is designed to run on Colab using GPU T4. 
+The data are stored on Google Drive https://drive.google.com/drive/folders/15rCZyiqVFdUs5Vrj4TXOc6qKFB-aUseI?usp=share_link , and the code is designed to run on Colab using GPU T4. 
 
 吳政蔚's code uses local files (I downloaded all the data), so that part of the code has to be rewritten if one wants to run it on colab. 
 
