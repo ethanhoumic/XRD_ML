@@ -77,4 +77,6 @@ The models can be executed in the notebook file on Github, run the code from the
 The models can be trained and evaluated by following the cells. If you want to directly evaluate an existing .pt file, add a cell with "model = torch.load("model_path")". "CE" in the weight file name means that the loss function is CrossEntropy, while "FL" means the loss function is FocalLoss. 
 
 ## References
+[1] Vecsei, P. M., Choo, K., Chang, J., & Neupert, T. (2019). Neural network based classification of crystal symmetries from x-ray diffraction patterns. Physical Review. B./Physical Review. B, 99(24). https://doi.org/10.1103/physrevb.99.245120
 
+[2] Suzuki, Y., Hino, H., Hawai, T., Saito, K., Kotsugi, M., & Ono, K. (2020b). Symmetry prediction and knowledge discovery from X-ray diffraction patterns using an interpretable machine learning approach. Scientific Reports, 10(1). https://doi.org/10.1038/s41598-020-77474-4
