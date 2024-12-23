@@ -68,6 +68,7 @@ For 侯奕安's notebooks (model_CNNLSTM.ipynb, model_CNN_LSTM_peak.ipynb), plea
 |-- your google drive <br>
 -|-- xrd_training  <br>
 --|-- structure_info.csv, output_data.zip <br>
+For 蔡杰達's .pt file, because most of them have big size, they are stored in the same Google Drive link above.
 
 ### Model 
 #### Dense, CNN + Dense, Extra Trees
