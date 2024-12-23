@@ -66,8 +66,8 @@ The data are stored on Google Drive, and the code is designed to run on Colab us
 For 侯奕安's notebooks (model_CNNLSTM.ipynb, model_CNN_LSTM_peak.ipynb), please follow the below hierarchy to execute the code: 
 
 |-- your google drive <br>
- |-- xrd_training  <br>
-  |-- structure_info.csv, output_data.zip <br>
+-|-- xrd_training  <br>
+--|-- structure_info.csv, output_data.zip <br>
 
 ### Model 
 #### Dense, CNN + Dense, Extra Trees
