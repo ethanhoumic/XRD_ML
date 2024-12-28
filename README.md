@@ -9,9 +9,9 @@ In this project, we have used various model to predict the crystal system from X
   
 ## Members (Name and Student ID) 
 
-1. 侯奕安 b11202014
-2. 吳政蔚 b11202030
-3. 蔡杰達 b11202040
+1. 侯奕安
+2. 吳政蔚 (wasslu914)
+3. 蔡杰達 (tsaijieda)
 
 ## Method
 
