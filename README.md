@@ -7,7 +7,7 @@ Using machine learning on XRD analysis
 
 In this project, we have used various model to predict the crystal system from XRD spectrum. We end up achieved a highest accuracy of 67 % to classify the 7 crystal system from XRD data.
   
-## Members (Name and Student ID) 
+## Members (Name and Github Username) 
 
 1. 侯奕安
 2. 吳政蔚 (wasslu914)
